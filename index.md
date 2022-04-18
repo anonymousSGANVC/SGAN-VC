@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## SGAN-VC: A Subband-based Generative Adversarial Network for Non-parallel Many-to-many Voice Conversion
 
-You can use the [editor on GitHub](https://github.com/anonymousSGANVC/SGAN-VC.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<!-- You can use the [editor on GitHub](https://github.com/anonymousSGANVC/SGAN-VC.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files. -->
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Non-parallel many-to-many voice conversion transfers the speech of the source speaker into an arbitrary style of the target speaker without parallel data, while keeping the source speech content unchanged. Especially when the target speaker does not exist in the training set, it is a challenge to accurately extract style information. Therefore, the task demands the model to have excellent robustness and generalization.
+
+We propose a new voice conversion framework, i.e., Subband-based Generative Adversarial Network for Voice Conversion (SGAN-VC), explicitly exploits the style spatial characteristics of different subbands to convert each subband content of source speech separately. 
 
 ### Markdown
 
