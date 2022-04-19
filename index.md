@@ -23,6 +23,9 @@ The corpus contains roughly 85 hours of recordings produced by 218 native Chines
 
 ## try
 
+
+
+## Female to Female
 <table>
     <tr>
         <th></th>
@@ -83,16 +86,187 @@ The corpus contains roughly 85 hours of recordings produced by 218 native Chines
     
 </table>
 
-## Female to Female
-
-
 ## Female to Male
-
+<table>
+    <tr>
+        <th></th>
+        <th></th>
+        <th>VCTK Corpus</th>
+        <th></th>
+	<th>AISHELL3-84</th>
+    </tr>
+    <tr>
+    	<td></td>
+    	<td> Sample 1 () </td>
+    	<td> Sample 2 () </td>
+    	<td> Sample 1 () </td>
+    	<td> Sample 2 () </td>
+    </tr>
+    <tr>
+    	<td>Source</td>
+    	<td></td>
+    	<td></td>
+    	<td></td>
+    	<td></td>
+    </tr>
+    <tr>
+    	<td>Target</td>
+    	<td></td>
+    	<td></td>
+    	<td></td>
+    	<td></td>
+    </tr>
+    <tr>
+    	<td>StarGANv2-VC-noASR</td>
+    	<td></td>
+    	<td></td>
+    	<td></td>
+    	<td></td>
+    </tr>
+    <tr>
+    	<td>StarGANv2-VC-ASR</td>
+    	<td></td>
+    	<td></td>
+    	<td></td>
+    	<td></td>
+    </tr>
+    <tr>
+    	<td>SGAN-VC-Unseen</td>
+    	<td></td>
+    	<td></td>
+    	<td></td>
+    	<td></td>
+    </tr>
+    <tr>
+    	<td>SGAN-VC-Seen</td>
+    	<td></td>
+    	<td></td>
+    	<td></td>
+    	<td></td>
+    </tr>
+    
+</table>
 
 ## Male to Female
-
+<table>
+    <tr>
+        <th></th>
+        <th></th>
+        <th>VCTK Corpus</th>
+        <th></th>
+	<th>AISHELL3-84</th>
+    </tr>
+    <tr>
+    	<td></td>
+    	<td> Sample 1 () </td>
+    	<td> Sample 2 () </td>
+    	<td> Sample 1 () </td>
+    	<td> Sample 2 () </td>
+    </tr>
+    <tr>
+    	<td>Source</td>
+    	<td></td>
+    	<td></td>
+    	<td></td>
+    	<td></td>
+    </tr>
+    <tr>
+    	<td>Target</td>
+    	<td></td>
+    	<td></td>
+    	<td></td>
+    	<td></td>
+    </tr>
+    <tr>
+    	<td>StarGANv2-VC-noASR</td>
+    	<td></td>
+    	<td></td>
+    	<td></td>
+    	<td></td>
+    </tr>
+    <tr>
+    	<td>StarGANv2-VC-ASR</td>
+    	<td></td>
+    	<td></td>
+    	<td></td>
+    	<td></td>
+    </tr>
+    <tr>
+    	<td>SGAN-VC-Unseen</td>
+    	<td></td>
+    	<td></td>
+    	<td></td>
+    	<td></td>
+    </tr>
+    <tr>
+    	<td>SGAN-VC-Seen</td>
+    	<td></td>
+    	<td></td>
+    	<td></td>
+    	<td></td>
+    </tr>
+    
+</table>
 
 
 ## Male to Male
-
+<table>
+    <tr>
+        <th></th>
+        <th></th>
+        <th>VCTK Corpus</th>
+        <th></th>
+	<th>AISHELL3-84</th>
+    </tr>
+    <tr>
+    	<td></td>
+    	<td> Sample 1 () </td>
+    	<td> Sample 2 () </td>
+    	<td> Sample 1 () </td>
+    	<td> Sample 2 () </td>
+    </tr>
+    <tr>
+    	<td>Source</td>
+    	<td></td>
+    	<td></td>
+    	<td></td>
+    	<td></td>
+    </tr>
+    <tr>
+    	<td>Target</td>
+    	<td></td>
+    	<td></td>
+    	<td></td>
+    	<td></td>
+    </tr>
+    <tr>
+    	<td>StarGANv2-VC-noASR</td>
+    	<td></td>
+    	<td></td>
+    	<td></td>
+    	<td></td>
+    </tr>
+    <tr>
+    	<td>StarGANv2-VC-ASR</td>
+    	<td></td>
+    	<td></td>
+    	<td></td>
+    	<td></td>
+    </tr>
+    <tr>
+    	<td>SGAN-VC-Unseen</td>
+    	<td></td>
+    	<td></td>
+    	<td></td>
+    	<td></td>
+    </tr>
+    <tr>
+    	<td>SGAN-VC-Seen</td>
+    	<td></td>
+    	<td></td>
+    	<td></td>
+    	<td></td>
+    </tr>
+    
+</table>
 
