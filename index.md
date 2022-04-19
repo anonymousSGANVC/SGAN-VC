@@ -121,7 +121,7 @@ VCTK Corpus contains approximately 44 hours of speech recordings from 109 speake
     <tr>
     	<td>StarGANv2-VC-noASR</td>
     	<td><audio id="audio" controls="" preload="none">
-      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p233_316_mic1_to_p236_298_mic2/starganv2-vc-noasr_p233_316_mic1_to_p236_298_mic2.wav">
+      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p233_254_mic1_to_p254_165_mic2/starganv2-vc-noasr_p233_254_mic1_to_p254_165_mic2.wav">
 		</audio>
 	    </td>
     	<td><audio id="audio" controls="" preload="none">
