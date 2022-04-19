@@ -19,7 +19,7 @@ The corpus contains roughly 85 hours of recordings produced by 218 native Chines
 ## try
 
 <audio id="audio" controls="" preload="none">
-      <source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/blob/gh-pages/noasr_p228_306_mic1_to_p259_425_mic2.wav">
+      <source id="wav" src="https://www.musicbed.com/artists/brandon-black/44324">
       </audio>
 
 
