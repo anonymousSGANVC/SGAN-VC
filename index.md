@@ -14,10 +14,10 @@ VCTK Corpus contains approximately 44 hours of speech recordings from 109 speake
 is a large-scale and high-fidelity multi-speaker Mandarin speech corpus. 
 The corpus contains roughly 85 hours of recordings produced by 218 native Chinese speakers (consisting of 176 female and 42 male) and a total of 88,035 utterances. Due to the unbalanced gender ratio of AISHELL3, we employ all-male speakers and a randomly selected array of 42 female speakers as our evaluation dataset, called AISHELL3-84. Likewise, 5 male and 5 female data are randomly selected in AISHELL3-84 as the final test set. 
 
-# Many-to-many Voice Conversion
+# Many-to-many Voice Conversion Samples
 
-
-## Female to Female
+## VCTK Corpus
+### Female to Female
 <table>
     <tr>
     	<td></td>
@@ -92,7 +92,7 @@ The corpus contains roughly 85 hours of recordings produced by 218 native Chines
 </table>
 
 
-## Female to Male
+### Female to Male
 
 <table>
     <tr>
@@ -168,7 +168,7 @@ The corpus contains roughly 85 hours of recordings produced by 218 native Chines
 </table>
 
 
-## Male to Female
+### Male to Female
 
 <table>
     <tr>
@@ -243,7 +243,7 @@ The corpus contains roughly 85 hours of recordings produced by 218 native Chines
     </tr>  
 </table>
 
-## Male to Male
+### Male to Male
 
 <table>
     <tr>
