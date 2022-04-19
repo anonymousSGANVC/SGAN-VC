@@ -19,23 +19,13 @@ The corpus contains roughly 85 hours of recordings produced by 218 native Chines
 ## try
 
 
-你好阿萨德
-<audio id="audio" controls="" preload="none">
-      <source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/p228_335_mic2_to_p239_042_mic1.wav">
-      </audio>
-<audio id="audio" controls="" preload="none">
-      <source id="m4a" src="https://gitee.com/WhiteMountain/blog-resources/raw/master/%E6%96%B9%E5%9C%86%E5%87%A0%E9%87%8C%20-%20%E8%96%9B%E4%B9%8B%E8%B0%A6.m4a">
-      </audio>
 
-爱好都是的
 
 ## Female to Female
 
 | | Sample 1 | Sample 2 | Sample 1 | Sample 2|
 |---- | ---- | ---- | ---- | ---- | 
-|Source | <audio id="audio" controls="" preload="none">
-      <source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/p228_335_mic2_to_p239_042_mic1.wav">
-      </audio> | ---- | ---- | ----|
+|Source |  | ---- | ---- | ----|
 |Target | ---- | ---- | ---- | ----|
 |StarGANv2-VC-noASR| ---- | ---- | ---- | ----|
 |StarGANv2-VC-ASR | ---- | ---- | ---- | ----|
