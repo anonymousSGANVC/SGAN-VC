@@ -96,184 +96,224 @@ The corpus contains roughly 85 hours of recordings produced by 218 native Chines
 
 <table>
     <tr>
-        <th></th>
-        <th></th>
-        <th>VCTK Corpus</th>
-        <th></th>
-	<th>AISHELL3-84</th>
+    	<td></td>
+    	<td> Sample 1 (p233 → p236) </td>
+    	<td> Sample 2 (p239 → p244) </td>
     </tr>
     <tr>
-    	<td></td>
-    	<td> Sample 1 () </td>
-    	<td> Sample 2 () </td>
-    	<td> Sample 1 () </td>
-    	<td> Sample 2 () </td>
-    </tr>
-    <tr>
-    	<td>Source</td>
-    	<td></td>
-    	<td></td>
-    	<td></td>
-    	<td></td>
+    	<td><font size="1"> Source</td>
+    	<td><audio id="audio" controls="" preload="none">
+      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p233_316_mic1_to_p236_298_mic2/source_p233_316_mic1.wav">
+		</audio>
+		</td>
+    	<td><audio id="audio" controls="" preload="none">
+      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p239_455_mic2_to_p244_400_mic1/source_p239_455_mic2.wav">
+		</audio>
+	    </td>
     </tr>
     <tr>
     	<td>Target</td>
-    	<td></td>
-    	<td></td>
-    	<td></td>
-    	<td></td>
+    	<td><audio id="audio" controls="" preload="none">
+      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p233_316_mic1_to_p236_298_mic2/target_p236_298_mic2.wav">
+		</audio>
+	 	</td>
+    	<td><audio id="audio" controls="" preload="none">
+      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p239_455_mic2_to_p244_400_mic1/target_p244_400_mic1.wav">
+		</audio>
+	    </td>
     </tr>
     <tr>
     	<td>StarGANv2-VC-noASR</td>
-    	<td></td>
-    	<td></td>
-    	<td></td>
-    	<td></td>
+    	<td><audio id="audio" controls="" preload="none">
+      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p233_316_mic1_to_p236_298_mic2/starganv2-vc-noasr_p233_316_mic1_to_p236_298_mic2.wav">
+		</audio>
+	    </td>
+    	<td><audio id="audio" controls="" preload="none">
+      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p239_455_mic2_to_p244_400_mic1/starganv2-vc-noasr_p239_455_mic2_to_p244_400_mic1.wav">
+	    </td>
     </tr>
     <tr>
     	<td>StarGANv2-VC-ASR</td>
-    	<td></td>
-    	<td></td>
-    	<td></td>
-    	<td></td>
+    	<td><audio id="audio" controls="" preload="none">
+      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p233_316_mic1_to_p236_298_mic2/starganv2-vc-asr_p233_316_mic1_to_p236_298_mic2.wav">
+		</audio>
+	    </td>
+    	<td><audio id="audio" controls="" preload="none">
+      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p239_455_mic2_to_p244_400_mic1/sganvc_unseen_p239_455_mic2_to_p244_400_mic1.wav">
+		</audio>
+	    </td>
     </tr>
     <tr>
     	<td>SGAN-VC-Unseen</td>
-    	<td></td>
-    	<td></td>
-    	<td></td>
-    	<td></td>
+    	<td><audio id="audio" controls="" preload="none">
+      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p233_316_mic1_to_p236_298_mic2/sganvc_unseen_p233_316_mic1_to_p236_298_mic2.wav">
+		</audio>
+	    </td>
+    	<td><audio id="audio" controls="" preload="none">
+      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p239_455_mic2_to_p244_400_mic1/sganvc_unseen_p239_455_mic2_to_p244_400_mic1.wav">
+		</audio>
+	    </td>
     </tr>
     <tr>
     	<td>SGAN-VC-Seen</td>
-    	<td></td>
-    	<td></td>
-    	<td></td>
-    	<td></td>
-    </tr>
-    
+    	<td><audio id="audio" controls="" preload="none">
+      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p233_316_mic1_to_p236_298_mic2/sganvc_seen_p233_316_mic1_to_p236_298_mic2.wav">
+		</audio>
+	    </td>
+    	<td><audio id="audio" controls="" preload="none">
+      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p239_455_mic2_to_p244_400_mic1/sganvc_seen_p239_455_mic2_to_p244_400_mic1.wav">
+		</audio>
+	    </td>
+    </tr>  
 </table>
+
 
 ## Male to Female
+
 <table>
     <tr>
-        <th></th>
-        <th></th>
-        <th>VCTK Corpus</th>
-        <th></th>
-	<th>AISHELL3-84</th>
+    	<td></td>
+    	<td> Sample 1 (p233 → p236) </td>
+    	<td> Sample 2 (p239 → p244) </td>
     </tr>
     <tr>
-    	<td></td>
-    	<td> Sample 1 () </td>
-    	<td> Sample 2 () </td>
-    	<td> Sample 1 () </td>
-    	<td> Sample 2 () </td>
-    </tr>
-    <tr>
-    	<td>Source</td>
-    	<td></td>
-    	<td></td>
-    	<td></td>
-    	<td></td>
+    	<td><font size="1"> Source</td>
+    	<td><audio id="audio" controls="" preload="none">
+      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p233_316_mic1_to_p236_298_mic2/source_p233_316_mic1.wav">
+		</audio>
+		</td>
+    	<td><audio id="audio" controls="" preload="none">
+      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p239_455_mic2_to_p244_400_mic1/source_p239_455_mic2.wav">
+		</audio>
+	    </td>
     </tr>
     <tr>
     	<td>Target</td>
-    	<td></td>
-    	<td></td>
-    	<td></td>
-    	<td></td>
+    	<td><audio id="audio" controls="" preload="none">
+      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p233_316_mic1_to_p236_298_mic2/target_p236_298_mic2.wav">
+		</audio>
+	 	</td>
+    	<td><audio id="audio" controls="" preload="none">
+      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p239_455_mic2_to_p244_400_mic1/target_p244_400_mic1.wav">
+		</audio>
+	    </td>
     </tr>
     <tr>
     	<td>StarGANv2-VC-noASR</td>
-    	<td></td>
-    	<td></td>
-    	<td></td>
-    	<td></td>
+    	<td><audio id="audio" controls="" preload="none">
+      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p233_316_mic1_to_p236_298_mic2/starganv2-vc-noasr_p233_316_mic1_to_p236_298_mic2.wav">
+		</audio>
+	    </td>
+    	<td><audio id="audio" controls="" preload="none">
+      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p239_455_mic2_to_p244_400_mic1/starganv2-vc-noasr_p239_455_mic2_to_p244_400_mic1.wav">
+	    </td>
     </tr>
     <tr>
     	<td>StarGANv2-VC-ASR</td>
-    	<td></td>
-    	<td></td>
-    	<td></td>
-    	<td></td>
+    	<td><audio id="audio" controls="" preload="none">
+      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p233_316_mic1_to_p236_298_mic2/starganv2-vc-asr_p233_316_mic1_to_p236_298_mic2.wav">
+		</audio>
+	    </td>
+    	<td><audio id="audio" controls="" preload="none">
+      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p239_455_mic2_to_p244_400_mic1/sganvc_unseen_p239_455_mic2_to_p244_400_mic1.wav">
+		</audio>
+	    </td>
     </tr>
     <tr>
     	<td>SGAN-VC-Unseen</td>
-    	<td></td>
-    	<td></td>
-    	<td></td>
-    	<td></td>
+    	<td><audio id="audio" controls="" preload="none">
+      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p233_316_mic1_to_p236_298_mic2/sganvc_unseen_p233_316_mic1_to_p236_298_mic2.wav">
+		</audio>
+	    </td>
+    	<td><audio id="audio" controls="" preload="none">
+      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p239_455_mic2_to_p244_400_mic1/sganvc_unseen_p239_455_mic2_to_p244_400_mic1.wav">
+		</audio>
+	    </td>
     </tr>
     <tr>
     	<td>SGAN-VC-Seen</td>
-    	<td></td>
-    	<td></td>
-    	<td></td>
-    	<td></td>
-    </tr>
-    
+    	<td><audio id="audio" controls="" preload="none">
+      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p233_316_mic1_to_p236_298_mic2/sganvc_seen_p233_316_mic1_to_p236_298_mic2.wav">
+		</audio>
+	    </td>
+    	<td><audio id="audio" controls="" preload="none">
+      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p239_455_mic2_to_p244_400_mic1/sganvc_seen_p239_455_mic2_to_p244_400_mic1.wav">
+		</audio>
+	    </td>
+    </tr>  
 </table>
-
 
 ## Male to Male
+
 <table>
     <tr>
-        <th></th>
-        <th></th>
-        <th>VCTK Corpus</th>
-        <th></th>
-	<th>AISHELL3-84</th>
+    	<td></td>
+    	<td> Sample 1 (p233 → p236) </td>
+    	<td> Sample 2 (p239 → p244) </td>
     </tr>
     <tr>
-    	<td></td>
-    	<td> Sample 1 () </td>
-    	<td> Sample 2 () </td>
-    	<td> Sample 1 () </td>
-    	<td> Sample 2 () </td>
-    </tr>
-    <tr>
-    	<td>Source</td>
-    	<td></td>
-    	<td></td>
-    	<td></td>
-    	<td></td>
+    	<td><font size="1"> Source</td>
+    	<td><audio id="audio" controls="" preload="none">
+      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p233_316_mic1_to_p236_298_mic2/source_p233_316_mic1.wav">
+		</audio>
+		</td>
+    	<td><audio id="audio" controls="" preload="none">
+      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p239_455_mic2_to_p244_400_mic1/source_p239_455_mic2.wav">
+		</audio>
+	    </td>
     </tr>
     <tr>
     	<td>Target</td>
-    	<td></td>
-    	<td></td>
-    	<td></td>
-    	<td></td>
+    	<td><audio id="audio" controls="" preload="none">
+      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p233_316_mic1_to_p236_298_mic2/target_p236_298_mic2.wav">
+		</audio>
+	 	</td>
+    	<td><audio id="audio" controls="" preload="none">
+      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p239_455_mic2_to_p244_400_mic1/target_p244_400_mic1.wav">
+		</audio>
+	    </td>
     </tr>
     <tr>
     	<td>StarGANv2-VC-noASR</td>
-    	<td></td>
-    	<td></td>
-    	<td></td>
-    	<td></td>
+    	<td><audio id="audio" controls="" preload="none">
+      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p233_316_mic1_to_p236_298_mic2/starganv2-vc-noasr_p233_316_mic1_to_p236_298_mic2.wav">
+		</audio>
+	    </td>
+    	<td><audio id="audio" controls="" preload="none">
+      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p239_455_mic2_to_p244_400_mic1/starganv2-vc-noasr_p239_455_mic2_to_p244_400_mic1.wav">
+	    </td>
     </tr>
     <tr>
     	<td>StarGANv2-VC-ASR</td>
-    	<td></td>
-    	<td></td>
-    	<td></td>
-    	<td></td>
+    	<td><audio id="audio" controls="" preload="none">
+      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p233_316_mic1_to_p236_298_mic2/starganv2-vc-asr_p233_316_mic1_to_p236_298_mic2.wav">
+		</audio>
+	    </td>
+    	<td><audio id="audio" controls="" preload="none">
+      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p239_455_mic2_to_p244_400_mic1/sganvc_unseen_p239_455_mic2_to_p244_400_mic1.wav">
+		</audio>
+	    </td>
     </tr>
     <tr>
     	<td>SGAN-VC-Unseen</td>
-    	<td></td>
-    	<td></td>
-    	<td></td>
-    	<td></td>
+    	<td><audio id="audio" controls="" preload="none">
+      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p233_316_mic1_to_p236_298_mic2/sganvc_unseen_p233_316_mic1_to_p236_298_mic2.wav">
+		</audio>
+	    </td>
+    	<td><audio id="audio" controls="" preload="none">
+      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p239_455_mic2_to_p244_400_mic1/sganvc_unseen_p239_455_mic2_to_p244_400_mic1.wav">
+		</audio>
+	    </td>
     </tr>
     <tr>
     	<td>SGAN-VC-Seen</td>
-    	<td></td>
-    	<td></td>
-    	<td></td>
-    	<td></td>
-    </tr>
-    
+    	<td><audio id="audio" controls="" preload="none">
+      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p233_316_mic1_to_p236_298_mic2/sganvc_seen_p233_316_mic1_to_p236_298_mic2.wav">
+		</audio>
+	    </td>
+    	<td><audio id="audio" controls="" preload="none">
+      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p239_455_mic2_to_p244_400_mic1/sganvc_seen_p239_455_mic2_to_p244_400_mic1.wav">
+		</audio>
+	    </td>
+    </tr>  
 </table>
-
