@@ -18,10 +18,36 @@ The corpus contains roughly 85 hours of recordings produced by 218 native Chines
 
 ## try
 
-<audio id="audio" controls="" preload="none">
+<table>
+    <caption>学生情况表</caption>
+    <tr>
+        <th>学号</th>
+        <th>姓名</th>
+        <th>性别</th>
+        <th>年龄</th>
+        <th>籍贯</th>
+        <th>班级号</th>
+        <th>成绩</th>
+    </tr>
+    <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>数学</td>
+    <td>物理</td>
+    <td>化学</td>
+    <td>外语</td>
+	</tr>
+    <tr>
+        <td><audio id="audio" controls="" preload="none">
       <source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p239_278_mic2_to_p236_167_mic1/source_p239_278_mic2.wav">
       </audio>
-
+        </td>
+    </tr>
+</table>
 
 ## Female to Female
 
