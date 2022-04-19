@@ -27,29 +27,35 @@ The corpus contains roughly 85 hours of recordings produced by 218 native Chines
 |SGAN-VC-Seen | ---- | ---- | ---- | ----|
 
 
-
 ## Female to Male
+| | Sample 1 | Sample 2 | Sample 1 | Sample 2|
+|---- | ---- | ---- | ---- | ---- | 
+|Source | ---- | ---- | ---- | ----|
+|Target | ---- | ---- | ---- | ----|
+|StarGANv2-VC-noASR| ---- | ---- | ---- | ----|
+|StarGANv2-VC-ASR | ---- | ---- | ---- | ----|
+|SGAN-VC-Unseen | ---- | ---- | ---- | ----|
+|SGAN-VC-Seen | ---- | ---- | ---- | ----|
+
+
 ## Male to Female
+
+| | Sample 1 | Sample 2 | Sample 1 | Sample 2|
+|---- | ---- | ---- | ---- | ---- | 
+|Source | ---- | ---- | ---- | ----|
+|Target | ---- | ---- | ---- | ----|
+|StarGANv2-VC-noASR| ---- | ---- | ---- | ----|
+|StarGANv2-VC-ASR | ---- | ---- | ---- | ----|
+|SGAN-VC-Unseen | ---- | ---- | ---- | ----|
+|SGAN-VC-Seen | ---- | ---- | ---- | ----|
+
 ## Male to Male
 
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/anonymousSGANVC/SGAN-VC.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+| | Sample 1 | Sample 2 | Sample 1 | Sample 2|
+|---- | ---- | ---- | ---- | ---- | 
+|Source | ---- | ---- | ---- | ----|
+|Target | ---- | ---- | ---- | ----|
+|StarGANv2-VC-noASR| ---- | ---- | ---- | ----|
+|StarGANv2-VC-ASR | ---- | ---- | ---- | ----|
+|SGAN-VC-Unseen | ---- | ---- | ---- | ----|
+|SGAN-VC-Seen | ---- | ---- | ---- | ----|
