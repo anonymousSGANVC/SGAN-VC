@@ -28,15 +28,15 @@ The corpus contains roughly 85 hours of recordings produced by 218 native Chines
     </tr>
     <tr>
     	<td></td>
-    	<td> Sample 1 () </td>
+    	<td> Sample 1 (p233 → p236) </td>
     	<td> Sample 2 () </td>
     	<td> Sample 1 () </td>
     	<td> Sample 2 () </td>
     </tr>
     <tr>
     	<td>Source</td>
-    	<td><audio id="1" controls="" preload="none">
-      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p239_278_mic2_to_p236_167_mic1/source_p239_278_mic2.wav">
+    	<td><audio id="audio" controls="" preload="none">
+      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p233_316_mic1_to_p236_298_mic2/source_p233_316_mic1.wav">
 		</audio>
 		</td>
     	<td></td>
@@ -45,8 +45,8 @@ The corpus contains roughly 85 hours of recordings produced by 218 native Chines
     </tr>
     <tr>
     	<td>Target</td>
-    	<td><audio id="1" controls="" preload="none">
-      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p239_278_mic2_to_p236_167_mic1/target_p236_167_mic1.wav">
+    	<td><audio id="audio" controls="" preload="none">
+      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p233_316_mic1_to_p236_298_mic2/target_p236_298_mic2.wav">
 		</audio>
 	 	</td>
     	<td></td>
@@ -55,28 +55,40 @@ The corpus contains roughly 85 hours of recordings produced by 218 native Chines
     </tr>
     <tr>
     	<td>StarGANv2-VC-noASR</td>
-    	<td></td>
+    	<td><audio id="audio" controls="" preload="none">
+      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p233_316_mic1_to_p236_298_mic2/starganv2-vc-noasr_p233_316_mic1_to_p236_298_mic2.wav">
+		</audio>
+	    </td>
     	<td></td>
     	<td></td>
     	<td></td>
     </tr>
     <tr>
     	<td>StarGANv2-VC-ASR</td>
-    	<td></td>
+    	<td><audio id="audio" controls="" preload="none">
+      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p233_316_mic1_to_p236_298_mic2/starganv2-vc-asr_p233_316_mic1_to_p236_298_mic2.wav">
+		</audio>
+	    </td>
     	<td></td>
     	<td></td>
     	<td></td>
     </tr>
     <tr>
     	<td>SGAN-VC-Unseen</td>
-    	<td></td>
+    	<td><audio id="audio" controls="" preload="none">
+      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/blob/gh-pages/samples/p233_316_mic1_to_p236_298_mic2/sganvc_unseen_p233_316_mic1_to_p236_298_mic2.wav">
+		</audio>
+	    </td>
     	<td></td>
     	<td></td>
     	<td></td>
     </tr>
     <tr>
     	<td>SGAN-VC-Seen</td>
-    	<td></td>
+    	<td><audio id="audio" controls="" preload="none">
+      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/blob/gh-pages/samples/p233_316_mic1_to_p236_298_mic2/sganvc_seen_p233_316_mic1_to_p236_298_mic2.wav">
+		</audio>
+	    </td>
     	<td></td>
     	<td></td>
     	<td></td>
