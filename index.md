@@ -16,80 +16,83 @@ The corpus contains roughly 85 hours of recordings produced by 218 native Chines
 
 # Many-to-many Voice Conversion
 
+<audio id="audio" controls="" preload="none">
+      <source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p239_278_mic2_to_p236_167_mic1/source_p239_278_mic2.wav">
+</audio>
+
+
 ## try
 
 <table>
-    <caption>学生情况表</caption>
     <tr>
-        <th>学号</th>
-        <th>姓名</th>
-        <th>性别</th>
-        <th>年龄</th>
-        <th>籍贯</th>
-        <th>班级号</th>
-        <th>成绩</th>
+        <th></th>
+        <th></th>
+        <th>VCTK Corpus</th>
+        <th></th>
+	<th>AISHELL3-84</th>
     </tr>
     <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>数学</td>
-    <td>物理</td>
-    <td>化学</td>
-    <td>外语</td>
-	</tr>
-    <tr>
-        <td><audio id="audio" controls="" preload="none">
-      <source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p239_278_mic2_to_p236_167_mic1/source_p239_278_mic2.wav">
-      </audio>
-        </td>
+    	<td></td>
+    	<td> Sample 1 () </td>
+    	<td> Sample 2 () </td>
+    	<td> Sample 1 () </td>
+    	<td> Sample 2 () </td>
     </tr>
+    <tr>
+    	<td>Source</td>
+    	<td></td>
+    	<td></td>
+    	<td></td>
+    	<td></td>
+    </tr>
+    <tr>
+    	<td>Target</td>
+    	<td></td>
+    	<td></td>
+    	<td></td>
+    	<td></td>
+    </tr>
+    <tr>
+    	<td>StarGANv2-VC-noASR</td>
+    	<td></td>
+    	<td></td>
+    	<td></td>
+    	<td></td>
+    </tr>
+    <tr>
+    	<td>StarGANv2-VC-ASR</td>
+    	<td></td>
+    	<td></td>
+    	<td></td>
+    	<td></td>
+    </tr>
+    <tr>
+    	<td>SGAN-VC-Unseen</td>
+    	<td></td>
+    	<td></td>
+    	<td></td>
+    	<td></td>
+    </tr>
+    <tr>
+    	<td>SGAN-VC-Seen</td>
+    	<td></td>
+    	<td></td>
+    	<td></td>
+    	<td></td>
+    </tr>
+    
 </table>
 
 ## Female to Female
 
-| | Sample 1 | Sample 2 | Sample 1 | Sample 2|
-|---- | ---- | ---- | ---- | ---- | 
-|Source |  | ---- | ---- | ----|
-|Target | ---- | ---- | ---- | ----|
-|StarGANv2-VC-noASR| ---- | ---- | ---- | ----|
-|StarGANv2-VC-ASR | ---- | ---- | ---- | ----|
-|SGAN-VC-Unseen | ---- | ---- | ---- | ----|
-|SGAN-VC-Seen | ---- | ---- | ---- | ----|
-
 
 ## Female to Male
-| | Sample 1 | Sample 2 | Sample 1 | Sample 2|
-|---- | ---- | ---- | ---- | ---- | 
-|Source | ---- | ---- | ---- | ----|
-|Target | ---- | ---- | ---- | ----|
-|StarGANv2-VC-noASR| ---- | ---- | ---- | ----|
-|StarGANv2-VC-ASR | ---- | ---- | ---- | ----|
-|SGAN-VC-Unseen | ---- | ---- | ---- | ----|
-|SGAN-VC-Seen | ---- | ---- | ---- | ----|
 
 
 ## Male to Female
 
-| | Sample 1 | Sample 2 | Sample 1 | Sample 2|
-|---- | ---- | ---- | ---- | ---- | 
-|Source | ---- | ---- | ---- | ----|
-|Target | ---- | ---- | ---- | ----|
-|StarGANv2-VC-noASR| ---- | ---- | ---- | ----|
-|StarGANv2-VC-ASR | ---- | ---- | ---- | ----|
-|SGAN-VC-Unseen | ---- | ---- | ---- | ----|
-|SGAN-VC-Seen | ---- | ---- | ---- | ----|
+
 
 ## Male to Male
 
-| | Sample 1 | Sample 2 | Sample 1 | Sample 2|
-|---- | ---- | ---- | ---- | ---- | 
-|Source | ---- | ---- | ---- | ----|
-|Target | ---- | ---- | ---- | ----|
-|StarGANv2-VC-noASR| ---- | ---- | ---- | ----|
-|StarGANv2-VC-ASR | ---- | ---- | ---- | ----|
-|SGAN-VC-Unseen | ---- | ---- | ---- | ----|
-|SGAN-VC-Seen | ---- | ---- | ---- | ----|
+
