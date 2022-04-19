@@ -59,7 +59,7 @@ VCTK Corpus contains approximately 44 hours of speech recordings from 109 speake
 		</audio>
 	    </td>
     	<td><audio id="audio" controls="" preload="none">
-      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p239_455_mic2_to_p244_400_mic1/sganvc_unseen_p239_455_mic2_to_p244_400_mic1.wav">
+      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p239_455_mic2_to_p244_400_mic1/starganv2-vc-asr_p239_455_mic2_to_p244_400_mic1.wav">
 		</audio>
 	    </td>
     </tr>
@@ -173,13 +173,13 @@ VCTK Corpus contains approximately 44 hours of speech recordings from 109 speake
 <table>
     <tr>
     	<td></td>
-    	<td> Sample 1 (p233 → p236) </td>
-    	<td> Sample 2 (p239 → p244) </td>
+    	<td> Sample 1 (p258 → p236) </td>
+    	<td> Sample 2 (p259 → p239) </td>
     </tr>
     <tr>
     	<td><font size="1"> Source</td>
     	<td><audio id="audio" controls="" preload="none">
-      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p233_316_mic1_to_p236_298_mic2/source_p233_316_mic1.wav">
+      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p258_332_mic2_to_p236_402_mic2/source_p258_332_mic2.wav">
 		</audio>
 		</td>
     	<td><audio id="audio" controls="" preload="none">
@@ -190,7 +190,7 @@ VCTK Corpus contains approximately 44 hours of speech recordings from 109 speake
     <tr>
     	<td>Target</td>
     	<td><audio id="audio" controls="" preload="none">
-      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p233_316_mic1_to_p236_298_mic2/target_p236_298_mic2.wav">
+      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p258_332_mic2_to_p236_402_mic2/target_p236_402_mic2.wav">
 		</audio>
 	 	</td>
     	<td><audio id="audio" controls="" preload="none">
@@ -201,7 +201,7 @@ VCTK Corpus contains approximately 44 hours of speech recordings from 109 speake
     <tr>
     	<td>StarGANv2-VC-noASR</td>
     	<td><audio id="audio" controls="" preload="none">
-      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p233_316_mic1_to_p236_298_mic2/starganv2-vc-noasr_p233_316_mic1_to_p236_298_mic2.wav">
+      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p258_332_mic2_to_p236_402_mic2/starganv2-vc-noasr_p258_332_mic2_to_p236_402_mic2.wav">
 		</audio>
 	    </td>
     	<td><audio id="audio" controls="" preload="none">
@@ -211,7 +211,7 @@ VCTK Corpus contains approximately 44 hours of speech recordings from 109 speake
     <tr>
     	<td>StarGANv2-VC-ASR</td>
     	<td><audio id="audio" controls="" preload="none">
-      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p233_316_mic1_to_p236_298_mic2/starganv2-vc-asr_p233_316_mic1_to_p236_298_mic2.wav">
+      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p258_332_mic2_to_p236_402_mic2/starganv2-vc-asr_p258_332_mic2_to_p236_402_mic2.wav">
 		</audio>
 	    </td>
     	<td><audio id="audio" controls="" preload="none">
@@ -222,7 +222,7 @@ VCTK Corpus contains approximately 44 hours of speech recordings from 109 speake
     <tr>
     	<td>SGAN-VC-Unseen</td>
     	<td><audio id="audio" controls="" preload="none">
-      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p233_316_mic1_to_p236_298_mic2/sganvc_unseen_p233_316_mic1_to_p236_298_mic2.wav">
+      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p258_332_mic2_to_p236_402_mic2/sganvc_unseen_p258_332_mic2_to_p236_402_mic2.wav">
 		</audio>
 	    </td>
     	<td><audio id="audio" controls="" preload="none">
@@ -233,7 +233,7 @@ VCTK Corpus contains approximately 44 hours of speech recordings from 109 speake
     <tr>
     	<td>SGAN-VC-Seen</td>
     	<td><audio id="audio" controls="" preload="none">
-      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p233_316_mic1_to_p236_298_mic2/sganvc_seen_p233_316_mic1_to_p236_298_mic2.wav">
+      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p258_332_mic2_to_p236_402_mic2/sganvc_seen_p258_332_mic2_to_p236_402_mic2.wav">
 		</audio>
 	    </td>
     	<td><audio id="audio" controls="" preload="none">
