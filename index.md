@@ -103,7 +103,7 @@ VCTK Corpus contains approximately 44 hours of speech recordings from 109 speake
 		</audio>
 		</td>
     	<td><audio id="audio" controls="" preload="none">
-      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p239_455_mic2_to_p244_400_mic1/source_p239_455_mic2.wav">
+      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p236_201_mic2_to_p259_468_mic1/source_p236_201_mic2.wav">
 		</audio>
 	    </td>
     </tr>
@@ -114,7 +114,7 @@ VCTK Corpus contains approximately 44 hours of speech recordings from 109 speake
 		</audio>
 	 	</td>
     	<td><audio id="audio" controls="" preload="none">
-      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p239_455_mic2_to_p244_400_mic1/target_p244_400_mic1.wav">
+      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p236_201_mic2_to_p259_468_mic1/target_p259_468_mic1.wav">
 		</audio>
 	    </td>
     </tr>
@@ -125,7 +125,7 @@ VCTK Corpus contains approximately 44 hours of speech recordings from 109 speake
 		</audio>
 	    </td>
     	<td><audio id="audio" controls="" preload="none">
-      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p233_254_mic1_to_p254_165_mic2/starganv2-vc-noasr_p233_254_mic1_to_p254_165_mic2.wav">
+      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p236_201_mic2_to_p259_468_mic1/starganv2-vc-noasr_p236_201_mic2_to_p259_468_mic1.wav">
 	    </td>
     </tr>
     <tr>
@@ -135,7 +135,7 @@ VCTK Corpus contains approximately 44 hours of speech recordings from 109 speake
 		</audio>
 	    </td>
     	<td><audio id="audio" controls="" preload="none">
-      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p239_455_mic2_to_p244_400_mic1/sganvc_unseen_p239_455_mic2_to_p244_400_mic1.wav">
+      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p236_201_mic2_to_p259_468_mic1/starganv2-vc-asr_p236_201_mic2_to_p259_468_mic1.wav">
 		</audio>
 	    </td>
     </tr>
@@ -146,7 +146,7 @@ VCTK Corpus contains approximately 44 hours of speech recordings from 109 speake
 		</audio>
 	    </td>
     	<td><audio id="audio" controls="" preload="none">
-      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p239_455_mic2_to_p244_400_mic1/sganvc_unseen_p239_455_mic2_to_p244_400_mic1.wav">
+      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p236_201_mic2_to_p259_468_mic1/sganvc_unseen_p236_201_mic2_to_p259_468_mic1.wav">
 		</audio>
 	    </td>
     </tr>
@@ -157,7 +157,7 @@ VCTK Corpus contains approximately 44 hours of speech recordings from 109 speake
 		</audio>
 	    </td>
     	<td><audio id="audio" controls="" preload="none">
-      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p239_455_mic2_to_p244_400_mic1/sganvc_seen_p239_455_mic2_to_p244_400_mic1.wav">
+      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p236_201_mic2_to_p259_468_mic1/sganvc_seen_p236_201_mic2_to_p259_468_mic1.wav">
 		</audio>
 	    </td>
     </tr>  
