@@ -45,7 +45,10 @@ The corpus contains roughly 85 hours of recordings produced by 218 native Chines
     </tr>
     <tr>
     	<td>Target</td>
-    	<td></td>
+    	<td><audio id="1" controls="" preload="none">
+      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p239_278_mic2_to_p236_167_mic1/target_p236_167_mic1.wav">
+		</audio>
+	 	</td>
     	<td></td>
     	<td></td>
     	<td></td>
