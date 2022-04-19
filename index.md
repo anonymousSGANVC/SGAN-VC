@@ -29,7 +29,7 @@ The corpus contains roughly 85 hours of recordings produced by 218 native Chines
     <tr>
     	<td></td>
     	<td> Sample 1 (p233 → p236) </td>
-    	<td> Sample 2 () </td>
+    	<td> Sample 2 (p239 → p244) </td>
     	<td> Sample 1 () </td>
     	<td> Sample 2 () </td>
     </tr>
@@ -39,7 +39,10 @@ The corpus contains roughly 85 hours of recordings produced by 218 native Chines
       		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p233_316_mic1_to_p236_298_mic2/source_p233_316_mic1.wav">
 		</audio>
 		</td>
-    	<td></td>
+    	<td><audio id="audio" controls="" preload="none">
+      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p239_455_mic2_to_p244_400_mic1/source_p239_455_mic2.wav">
+		</audio>
+	    </td>
     	<td></td>
     	<td></td>
     </tr>
@@ -49,7 +52,10 @@ The corpus contains roughly 85 hours of recordings produced by 218 native Chines
       		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p233_316_mic1_to_p236_298_mic2/target_p236_298_mic2.wav">
 		</audio>
 	 	</td>
-    	<td></td>
+    	<td><audio id="audio" controls="" preload="none">
+      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p239_455_mic2_to_p244_400_mic1/target_p244_400_mic1.wav">
+		</audio>
+	    </td>
     	<td></td>
     	<td></td>
     </tr>
@@ -59,7 +65,9 @@ The corpus contains roughly 85 hours of recordings produced by 218 native Chines
       		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p233_316_mic1_to_p236_298_mic2/starganv2-vc-noasr_p233_316_mic1_to_p236_298_mic2.wav">
 		</audio>
 	    </td>
-    	<td></td>
+    	<td><audio id="audio" controls="" preload="none">
+      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p239_455_mic2_to_p244_400_mic1/starganv2-vc-noasr_p239_455_mic2_to_p244_400_mic1.wav">
+	    </td>
     	<td></td>
     	<td></td>
     </tr>
@@ -69,7 +77,10 @@ The corpus contains roughly 85 hours of recordings produced by 218 native Chines
       		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p233_316_mic1_to_p236_298_mic2/starganv2-vc-asr_p233_316_mic1_to_p236_298_mic2.wav">
 		</audio>
 	    </td>
-    	<td></td>
+    	<td><audio id="audio" controls="" preload="none">
+      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p239_455_mic2_to_p244_400_mic1/sganvc_unseen_p239_455_mic2_to_p244_400_mic1.wav">
+		</audio>
+	    </td>
     	<td></td>
     	<td></td>
     </tr>
@@ -79,7 +90,10 @@ The corpus contains roughly 85 hours of recordings produced by 218 native Chines
       		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p233_316_mic1_to_p236_298_mic2/sganvc_unseen_p233_316_mic1_to_p236_298_mic2.wav">
 		</audio>
 	    </td>
-    	<td></td>
+    	<td><audio id="audio" controls="" preload="none">
+      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p239_455_mic2_to_p244_400_mic1/sganvc_unseen_p239_455_mic2_to_p244_400_mic1.wav">
+		</audio>
+	    </td>
     	<td></td>
     	<td></td>
     </tr>
@@ -89,7 +103,10 @@ The corpus contains roughly 85 hours of recordings produced by 218 native Chines
       		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p233_316_mic1_to_p236_298_mic2/sganvc_seen_p233_316_mic1_to_p236_298_mic2.wav">
 		</audio>
 	    </td>
-    	<td></td>
+    	<td><audio id="audio" controls="" preload="none">
+      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p239_455_mic2_to_p244_400_mic1/sganvc_seen_p239_455_mic2_to_p244_400_mic1.wav">
+		</audio>
+	    </td>
     	<td></td>
     	<td></td>
     </tr>
