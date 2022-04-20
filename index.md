@@ -100,10 +100,6 @@ VCTK Corpus contains approximately 44 hours of speech recordings from 109 speake
 
 
 
-
-
-
-<!--
 <table>
     <tr>
     	<td></td>
@@ -634,4 +630,4 @@ The corpus contains roughly 85 hours of recordings produced by 218 native Chines
 	    </td>
     </tr>  
 </table>
--->
+
