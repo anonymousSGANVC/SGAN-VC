@@ -7,10 +7,10 @@ We propose a new voice conversion framework, i.e., Subband-based Generative Adve
 
 # Many-to-many Voice Conversion Samples
 
-## VCTK Corpus
+## 1. VCTK Corpus
 VCTK Corpus contains approximately 44 hours of speech recordings from 109 speakers with various accents. These sentences are selected from multiple media or archives. Each speaker reads out about 400 sentences selected by the greedy algorithm. VCTK Corpus contains 47 male speakers and 62 female speakers, with a relatively balanced gender ratio.
 
-### Female to Female
+### 1.1 Female to Female
 
 <table>
     <tr>
@@ -88,7 +88,7 @@ VCTK Corpus contains approximately 44 hours of speech recordings from 109 speake
 
 
 
-### Female to Male
+### 1.2 Female to Male
 
 <table>
     <tr>
@@ -165,7 +165,7 @@ VCTK Corpus contains approximately 44 hours of speech recordings from 109 speake
 </table>
 
 
-### Male to Female
+### 1.3 Male to Female
 
 <table>
     <tr>
@@ -241,7 +241,7 @@ VCTK Corpus contains approximately 44 hours of speech recordings from 109 speake
     </tr>  
 </table>
 
-### Male to Male
+### 1.4 Male to Male
 
 <table>
     <tr>
@@ -318,11 +318,11 @@ VCTK Corpus contains approximately 44 hours of speech recordings from 109 speake
 </table>
 
 
-## AISHELL3-84
+## 2. AISHELL3-84
 is a large-scale and high-fidelity multi-speaker Mandarin speech corpus. 
 The corpus contains roughly 85 hours of recordings produced by 218 native Chinese speakers (consisting of 176 female and 42 male) and a total of 88,035 utterances. Due to the unbalanced gender ratio of AISHELL3, we employ all-male speakers and a randomly selected array of 42 female speakers as our evaluation dataset, called AISHELL3-84. 
 
-### Female to Female
+### 2.1 Female to Female
 <table>
     <tr>
     	<td></td>
@@ -398,7 +398,7 @@ The corpus contains roughly 85 hours of recordings produced by 218 native Chines
 </table>
 
 
-### Female to Male
+### 2.2 Female to Male
 
 <table>
     <tr>
@@ -475,7 +475,7 @@ The corpus contains roughly 85 hours of recordings produced by 218 native Chines
 </table>
 
 
-### Male to Female
+### 2.3 Male to Female
 
 <table>
     <tr>
@@ -551,7 +551,7 @@ The corpus contains roughly 85 hours of recordings produced by 218 native Chines
     </tr>  
 </table>
 
-### Male to Male
+### 2.4 Male to Male
 
 <table>
     <tr>
