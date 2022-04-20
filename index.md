@@ -89,4 +89,80 @@ VCTK Corpus contains approximately 44 hours of speech recordings from 109 speake
 
 
 ### Female to Male
-zhe jiu shishi!!!!!!!!!!
+
+<table>
+    <tr>
+    	<td></td>
+    	<td> Sample 1 (p233 → p254) </td>
+    	<td> Sample 2 (p236 → p259) </td>
+    </tr>
+    <tr>
+    	<td><font size="1"> Source </td>
+    	<td><audio id="audio" controls="" preload="none">
+      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p233_254_mic1_to_p254_165_mic2/source_p233_254_mic1.wav">
+		</audio>
+		</td>
+    	<td><audio id="audio" controls="" preload="none">
+      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p236_201_mic2_to_p259_468_mic1/source_p236_201_mic2.wav">
+		</audio>
+	    </td>
+    </tr>
+    <tr>
+    	<td>Target</td>
+    	<td><audio id="audio" controls="" preload="none">
+      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p233_254_mic1_to_p254_165_mic2/target_p254_165_mic2.wav">
+		</audio>
+	 	</td>
+    	<td><audio id="audio" controls="" preload="none">
+      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p236_201_mic2_to_p259_468_mic1/target_p259_468_mic1.wav">
+		</audio>
+	    </td>
+    </tr>
+    <tr>
+    	<td>StarGANv2-VC-noASR</td>
+    	<td><audio id="audio" controls="" preload="none">
+      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p233_254_mic1_to_p254_165_mic2/starganv2-vc-noasr_p233_254_mic1_to_p254_165_mic2.wav">
+		</audio>
+	    </td>
+    	<td><audio id="audio" controls="" preload="none">
+      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p236_201_mic2_to_p259_468_mic1/starganv2-vc-noasr_p236_201_mic2_to_p259_468_mic1.wav">
+		</audio>
+	    </td>
+    </tr>
+	<tr>
+    	<td>StarGANv2-VC-ASR</td>
+    	<td><audio id="audio" controls="" preload="none">
+      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p233_254_mic1_to_p254_165_mic2/starganv2-vc-asr_p233_254_mic1_to_p254_165_mic2.wav">
+		</audio>
+	    </td>
+    	<td><audio id="audio" controls="" preload="none">
+      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p236_201_mic2_to_p259_468_mic1/starganv2-vc-asr_p236_201_mic2_to_p259_468_mic1.wav">
+		</audio>
+	    </td>
+	</tr>
+	<tr>
+    	<td>SGAN-VC-Unseen</td>
+    	<td><audio id="audio" controls="" preload="none">
+      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p233_254_mic1_to_p254_165_mic2/sganvc_unseen_p233_254_mic1_to_p254_165_mic2.wav">
+		</audio>
+	    </td>
+    	<td><audio id="audio" controls="" preload="none">
+      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p236_201_mic2_to_p259_468_mic1/sganvc_unseen_p236_201_mic2_to_p259_468_mic1.wav">
+		</audio>
+	    </td>
+	</tr>
+	<tr>
+    	<td>SGAN-VC-Seen</td>
+    	<td><audio id="audio" controls="" preload="none">
+      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p233_254_mic1_to_p254_165_mic2/sganvc_seen_p233_254_mic1_to_p254_165_mic2.wav">
+		</audio>
+	    </td>
+    	<td><audio id="audio" controls="" preload="none">
+      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p236_201_mic2_to_p259_468_mic1/sganvc_seen_p236_201_mic2_to_p259_468_mic1.wav">
+		</audio>
+	    </td>
+	</tr>  
+</table>
+
+
+### Male to Female
