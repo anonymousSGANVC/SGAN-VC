@@ -16,19 +16,6 @@ VCTK Corpus contains approximately 44 hours of speech recordings from 109 speake
 ### Female to Female
 
 
-|    | Sample 1 (p233 → p236) | Sample 2 (p239 → p244) |
-|  ----  | ----  | ----  |
-| Source  | <audio id="audio" controls="" preload="none">
-      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p233_316_mic1_to_p236_298_mic2/source_p233_316_mic1.wav">
-		</audio> | <audio id="audio" controls="" preload="none">
-      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p239_455_mic2_to_p244_400_mic1/source_p239_455_mic2.wav">
-		</audio> |
-| Target  |  |  |
-
-
-
-
-
 <table>
     <tr>
     	<td></td>
@@ -36,7 +23,7 @@ VCTK Corpus contains approximately 44 hours of speech recordings from 109 speake
     	<td> Sample 2 (p239 → p244) </td>
     </tr>
     <tr>
-    	<td><font size="1">Source</td>
+    	<td>Source</td>
     	<td><audio id="audio" controls="" preload="none">
       		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p233_316_mic1_to_p236_298_mic2/source_p233_316_mic1.wav">
 		</audio>
