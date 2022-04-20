@@ -127,39 +127,6 @@ VCTK Corpus contains approximately 44 hours of speech recordings from 109 speake
       		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p236_201_mic2_to_p259_468_mic1/starganv2-vc-noasr_p236_201_mic2_to_p259_468_mic1.wav">
 	    </td>
     </tr>
-    <tr>
-    	<td>StarGANv2-VC-ASR</td>
-    	<td><audio id="audio" controls="" preload="none">
-      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p233_254_mic1_to_p254_165_mic2/starganv2-vc-asr_p233_254_mic1_to_p254_165_mic2.wav">
-		</audio>
-	    </td>
-    	<td><audio id="audio" controls="" preload="none">
-      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p236_201_mic2_to_p259_468_mic1/starganv2-vc-asr_p236_201_mic2_to_p259_468_mic1.wav">
-		</audio>
-	    </td>
-    </tr>
-    <tr>
-    	<td>SGAN-VC-Unseen</td>
-    	<td><audio id="audio" controls="" preload="none">
-      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p233_254_mic1_to_p254_165_mic2/sganvc_unseen_p233_254_mic1_to_p254_165_mic2.wav">
-		</audio>
-	    </td>
-    	<td><audio id="audio" controls="" preload="none">
-      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p236_201_mic2_to_p259_468_mic1/sganvc_unseen_p236_201_mic2_to_p259_468_mic1.wav">
-		</audio>
-	    </td>
-    </tr>
-    <tr>
-    	<td>SGAN-VC-Seen</td>
-    	<td><audio id="audio" controls="" preload="none">
-      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p233_254_mic1_to_p254_165_mic2/sganvc_seen_p233_254_mic1_to_p254_165_mic2.wav">
-		</audio>
-	    </td>
-    	<td><audio id="audio" controls="" preload="none">
-      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p236_201_mic2_to_p259_468_mic1/sganvc_seen_p236_201_mic2_to_p259_468_mic1.wav">
-		</audio>
-	    </td>
-    </tr>  
 </table>
 
 
@@ -203,39 +170,6 @@ VCTK Corpus contains approximately 44 hours of speech recordings from 109 speake
       		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p259_090_mic2_to_p239_409_mic1/starganv2-vc-noasr_p259_090_mic2_to_p239_409_mic1.wav">
 	    </td>
     </tr>
-    <tr>
-    	<td>StarGANv2-VC-ASR</td>
-    	<td><audio id="audio" controls="" preload="none">
-      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p258_332_mic2_to_p236_402_mic2/starganv2-vc-asr_p258_332_mic2_to_p236_402_mic2.wav">
-		</audio>
-	    </td>
-    	<td><audio id="audio" controls="" preload="none">
-      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p259_090_mic2_to_p239_409_mic1/starganv2-vc-asr_p259_090_mic2_to_p239_409_mic1.wav">
-		</audio>
-	    </td>
-    </tr>
-    <tr>
-    	<td>SGAN-VC-Unseen</td>
-    	<td><audio id="audio" controls="" preload="none">
-      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p258_332_mic2_to_p236_402_mic2/sganvc_unseen_p258_332_mic2_to_p236_402_mic2.wav">
-		</audio>
-	    </td>
-    	<td><audio id="audio" controls="" preload="none">
-      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p259_090_mic2_to_p239_409_mic1/sganvc_unseen_p259_090_mic2_to_p239_409_mic1.wav">
-		</audio>
-	    </td>
-    </tr>
-    <tr>
-    	<td>SGAN-VC-Seen</td>
-    	<td><audio id="audio" controls="" preload="none">
-      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p258_332_mic2_to_p236_402_mic2/sganvc_seen_p258_332_mic2_to_p236_402_mic2.wav">
-		</audio>
-	    </td>
-    	<td><audio id="audio" controls="" preload="none">
-      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p259_090_mic2_to_p239_409_mic1/sganvc_seen_p259_090_mic2_to_p239_409_mic1.wav">
-		</audio>
-	    </td>
-    </tr>  
 </table>
 
 ### Male to Male
@@ -278,39 +212,6 @@ VCTK Corpus contains approximately 44 hours of speech recordings from 109 speake
       		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p270_062_mic1_to_p258_308_mic1/starganv2-vc-noasr_p270_062_mic1_to_p258_308_mic1.wav">
 	    </td>
     </tr>
-    <tr>
-    	<td>StarGANv2-VC-ASR</td>
-    	<td><audio id="audio" controls="" preload="none">
-      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p258_159_mic1_to_p254_064_mic1/starganv2-vc-asr_p258_159_mic1_to_p254_064_mic1.wav">
-		</audio>
-	    </td>
-    	<td><audio id="audio" controls="" preload="none">
-      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p270_062_mic1_to_p258_308_mic1/starganv2-vc-asr_p270_062_mic1_to_p258_308_mic1.wav">
-		</audio>
-	    </td>
-    </tr>
-    <tr>
-    	<td>SGAN-VC-Unseen</td>
-    	<td><audio id="audio" controls="" preload="none">
-      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p258_159_mic1_to_p254_064_mic1/sganvc_unseen_p258_159_mic1_to_p254_064_mic1.wav">
-		</audio>
-	    </td>
-    	<td><audio id="audio" controls="" preload="none">
-      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p270_062_mic1_to_p258_308_mic1/sganvc_unseen_p270_062_mic1_to_p258_308_mic1.wav">
-		</audio>
-	    </td>
-    </tr>
-    <tr>
-    	<td>SGAN-VC-Seen</td>
-    	<td><audio id="audio" controls="" preload="none">
-      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p258_159_mic1_to_p254_064_mic1/sganvc_seen_p258_159_mic1_to_p254_064_mic1.wav">
-		</audio>
-	    </td>
-    	<td><audio id="audio" controls="" preload="none">
-      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p270_062_mic1_to_p258_308_mic1/sganvc_seen_p270_062_mic1_to_p258_308_mic1.wav">
-		</audio>
-	    </td>
-    </tr>  
 </table>
 
 
@@ -357,39 +258,6 @@ The corpus contains roughly 85 hours of recordings produced by 218 native Chines
       		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/SSB04820030_to_SSB00110206/starganv2-vc_noasr-SSB04820030_to_SSB00110206.wav">
 	    </td>
     </tr>
-    <tr>
-    	<td>StarGANv2-VC-ASR</td>
-    	<td><audio id="audio" controls="" preload="none">
-      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/SSB00110136_to_SSB10000215/starganv2-vc_asr-SSB00110136_to_SSB10000215.wav">
-		</audio>
-	    </td>
-    	<td><audio id="audio" controls="" preload="none">
-      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/SSB04820030_to_SSB00110206/starganv2-vc_asr-SSB04820030_to_SSB00110206.wav">
-		</audio>
-	    </td>
-    </tr>
-    <tr>
-    	<td>SGAN-VC-Unseen</td>
-    	<td><audio id="audio" controls="" preload="none">
-      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/SSB00110136_to_SSB10000215/sganvc_unseen-SSB00110136_to_SSB10000215.wav">
-		</audio>
-	    </td>
-    	<td><audio id="audio" controls="" preload="none">
-      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/SSB04820030_to_SSB00110206/sganvc_unseen-SSB04820030_to_SSB00110206.wav">
-		</audio>
-	    </td>
-    </tr>
-    <tr>
-    	<td>SGAN-VC-Seen</td>
-    	<td><audio id="audio" controls="" preload="none">
-      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/SSB00110136_to_SSB10000215/sganvc_seen-SSB00110136_to_SSB10000215.wav">
-		</audio>
-	    </td>
-    	<td><audio id="audio" controls="" preload="none">
-      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/SSB04820030_to_SSB00110206/sganvc_seen-SSB04820030_to_SSB00110206.wav">
-		</audio>
-	    </td>
-    </tr>  
 </table>
 
 
@@ -433,39 +301,6 @@ The corpus contains roughly 85 hours of recordings produced by 218 native Chines
       		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/SSB12740372_to_SSB07100189/starganv2-vc_noasr-SSB12740372_to_SSB07100189.wav">
 	    </td>
     </tr>
-    <tr>
-    	<td>StarGANv2-VC-ASR</td>
-    	<td><audio id="audio" controls="" preload="none">
-      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/SSB10000120_to_SSB13650054/starganv2-vc_asr-SSB10000120_to_SSB13650054.wav">
-		</audio>
-	    </td>
-    	<td><audio id="audio" controls="" preload="none">
-      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/SSB12740372_to_SSB07100189/starganv2-vc_asr-SSB12740372_to_SSB07100189.wav">
-		</audio>
-	    </td>
-    </tr>
-    <tr>
-    	<td>SGAN-VC-Unseen</td>
-    	<td><audio id="audio" controls="" preload="none">
-      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/SSB10000120_to_SSB13650054/sganvc_unseen-SSB10000120_to_SSB13650054.wav">
-		</audio>
-	    </td>
-    	<td><audio id="audio" controls="" preload="none">
-      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/SSB12740372_to_SSB07100189/sganvc_unseen-SSB12740372_to_SSB07100189.wav">
-		</audio>
-	    </td>
-    </tr>
-    <tr>
-    	<td>SGAN-VC-Seen</td>
-    	<td><audio id="audio" controls="" preload="none">
-      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/SSB10000120_to_SSB13650054/sganvc_seen-SSB10000120_to_SSB13650054.wav">
-		</audio>
-	    </td>
-    	<td><audio id="audio" controls="" preload="none">
-      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/SSB12740372_to_SSB07100189/sganvc_seen-SSB12740372_to_SSB07100189.wav">
-		</audio>
-	    </td>
-    </tr>  
 </table>
 
 
@@ -509,39 +344,6 @@ The corpus contains roughly 85 hours of recordings produced by 218 native Chines
       		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/SSB04070119_to_SSB10000238/starganv2-vc_noasr-SSB04070119_to_SSB10000238.wav">
 	    </td>
     </tr>
-    <tr>
-    	<td>StarGANv2-VC-ASR</td>
-    	<td><audio id="audio" controls="" preload="none">
-      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/SSB03940020_to_SSB12740393/starganv2-vc_asr-SSB03940020_to_SSB12740393.wav">
-		</audio>
-	    </td>
-    	<td><audio id="audio" controls="" preload="none">
-      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/SSB04070119_to_SSB10000238/starganv2-vc_asr-SSB04070119_to_SSB10000238.wav">
-		</audio>
-	    </td>
-    </tr>
-    <tr>
-    	<td>SGAN-VC-Unseen</td>
-    	<td><audio id="audio" controls="" preload="none">
-      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/SSB03940020_to_SSB12740393/sganvc_unseen-SSB03940020_to_SSB12740393.wav">
-		</audio>
-	    </td>
-    	<td><audio id="audio" controls="" preload="none">
-      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/SSB04070119_to_SSB10000238/sganvc_unseen-SSB04070119_to_SSB10000238.wav">
-		</audio>
-	    </td>
-    </tr>
-    <tr>
-    	<td>SGAN-VC-Seen</td>
-    	<td><audio id="audio" controls="" preload="none">
-      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/SSB03940020_to_SSB12740393/sganvc_seen-SSB03940020_to_SSB12740393.wav">
-		</audio>
-	    </td>
-    	<td><audio id="audio" controls="" preload="none">
-      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/SSB04070119_to_SSB10000238/sganvc_seen-SSB04070119_to_SSB10000238.wav">
-		</audio>
-	    </td>
-    </tr>  
 </table>
 
 ### Male to Male
@@ -584,37 +386,4 @@ The corpus contains roughly 85 hours of recordings produced by 218 native Chines
       		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/SSB19350298_to_SSB13650368/starganv2-vc_noasr-SSB19350298_to_SSB13650368.wav">
 	    </td>
     </tr>
-    <tr>
-    	<td>StarGANv2-VC-ASR</td>
-    	<td><audio id="audio" controls="" preload="none">
-      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/SSB03940025_to_SSB04070225/starganv2-vc_asr-SSB03940025_to_SSB04070225.wav">
-		</audio>
-	    </td>
-    	<td><audio id="audio" controls="" preload="none">
-      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/SSB19350298_to_SSB13650368/starganv2-vc_asr-SSB19350298_to_SSB13650368.wav">
-		</audio>
-	    </td>
-    </tr>
-    <tr>
-    	<td>SGAN-VC-Unseen</td>
-    	<td><audio id="audio" controls="" preload="none">
-      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/SSB03940025_to_SSB04070225/sganvc_unseen-SSB03940025_to_SSB04070225.wav">
-		</audio>
-	    </td>
-    	<td><audio id="audio" controls="" preload="none">
-      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/SSB19350298_to_SSB13650368/sganvc_unseen-SSB19350298_to_SSB13650368.wav">
-		</audio>
-	    </td>
-    </tr>
-    <tr>
-    	<td>SGAN-VC-Seen</td>
-    	<td><audio id="audio" controls="" preload="none">
-      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/SSB03940025_to_SSB04070225/sganvc_seen-SSB03940025_to_SSB04070225.wav">
-		</audio>
-	    </td>
-    	<td><audio id="audio" controls="" preload="none">
-      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/SSB19350298_to_SSB13650368/sganvc_seen-SSB19350298_to_SSB13650368.wav">
-		</audio>
-	    </td>
-    </tr>  
 </table>
