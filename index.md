@@ -92,8 +92,8 @@ VCTK Corpus contains approximately 44 hours of speech recordings from 109 speake
 		</audio>
 	    </td>
     </tr>
-	
-<br>
+</table>
+
 
 
 ### Female to Male
