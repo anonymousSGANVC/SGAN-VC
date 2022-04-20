@@ -103,7 +103,7 @@ VCTK Corpus contains approximately 44 hours of speech recordings from 109 speake
     	<td> Sample 2 (p236 → p259) </td>
     </tr>
     <tr>
-    	<td><font size="1"> Source </td>
+    	<td>Source</td>
     	<td><audio id="audio" controls="" preload="none">
       		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p233_254_mic1_to_p254_165_mic2/source_p233_254_mic1.wav">
 		</audio>
@@ -179,7 +179,7 @@ VCTK Corpus contains approximately 44 hours of speech recordings from 109 speake
     	<td> Sample 2 (p259 → p239) </td>
     </tr>
     <tr>
-    	<td><font size="1"> Source</td>
+    	<td>Source</td>
     	<td><audio id="audio" controls="" preload="none">
       		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p258_332_mic2_to_p236_402_mic2/source_p258_332_mic2.wav">
 		</audio>
@@ -254,7 +254,7 @@ VCTK Corpus contains approximately 44 hours of speech recordings from 109 speake
     	<td> Sample 2 (p270 → p258) </td>
     </tr>
     <tr>
-    	<td><font size="1"> Source</td>
+    	<td>Source</td>
     	<td><audio id="audio" controls="" preload="none">
       		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p258_159_mic1_to_p254_064_mic1/source_p258_159_mic1.wav">
 		</audio>
@@ -333,7 +333,7 @@ The corpus contains roughly 85 hours of recordings produced by 218 native Chines
     	<td> Sample 2 (482 → 11) </td>
     </tr>
     <tr>
-    	<td><font size="1"> Source</td>
+    	<td>Source</td>
     	<td><audio id="audio" controls="" preload="none">
       		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/SSB00110136_to_SSB10000215/source-SSB00110136.wav">
 		</audio>
@@ -409,7 +409,7 @@ The corpus contains roughly 85 hours of recordings produced by 218 native Chines
     	<td> Sample 2 (1274 → 710) </td>
     </tr>
     <tr>
-    	<td><font size="1"> Source</td>
+    	<td>Source</td>
     	<td><audio id="audio" controls="" preload="none">
       		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/SSB10000120_to_SSB13650054/source-SSB10000120.wav">
 		</audio>
@@ -485,7 +485,7 @@ The corpus contains roughly 85 hours of recordings produced by 218 native Chines
     	<td> Sample 2 (407 → 1000) </td>
     </tr>
     <tr>
-    	<td><font size="1"> Source</td>
+    	<td>Source</td>
     	<td><audio id="audio" controls="" preload="none">
       		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/SSB03940020_to_SSB12740393/source-SSB03940020.wav">
 		</audio>
@@ -560,7 +560,7 @@ The corpus contains roughly 85 hours of recordings produced by 218 native Chines
     	<td> Sample 2 (1935 → 1365) </td>
     </tr>
     <tr>
-    	<td><font size="1"> Source</td>
+    	<td>Source</td>
     	<td><audio id="audio" controls="" preload="none">
       		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/SSB03940025_to_SSB04070225/source-SSB03940025.wav">
 		</audio>
