@@ -2,7 +2,9 @@ This is a regular paragraph.
 
 <table>
     <tr>
-        <td>Foo</td>
+        <td><audio id="audio" controls="" preload="none">
+      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p233_316_mic1_to_p236_298_mic2/source_p233_316_mic1.wav">
+		</audio></td>
     </tr>
 </table>
 
