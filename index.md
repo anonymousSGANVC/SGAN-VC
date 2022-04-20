@@ -58,15 +58,4 @@ VCTK Corpus contains approximately 44 hours of speech recordings from 109 speake
 		</audio>
 	    </td>
     </tr>
-    <tr>
-    	<td>SGAN-VC-Unseen</td>
-    	<td><audio id="audio" controls="" preload="none">
-      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p233_316_mic1_to_p236_298_mic2/sganvc_unseen_p233_316_mic1_to_p236_298_mic2.wav">
-		</audio>
-	    </td>
-    	<td><audio id="audio" controls="" preload="none">
-      		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p239_455_mic2_to_p244_400_mic1/sganvc_unseen_p239_455_mic2_to_p244_400_mic1.wav">
-		</audio>
-	    </td>
-    </tr>
 </table>
