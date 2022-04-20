@@ -250,7 +250,7 @@ VCTK Corpus contains approximately 44 hours of speech recordings from 109 speake
     	<td> Sample 2 (p270 → p258) </td>
     </tr>
     <tr>
-    	<td><font size="1"> Source</td>
+    	<td>Source</td>
     	<td><audio id="audio" controls="" preload="none">
       		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p258_159_mic1_to_p254_064_mic1/source_p258_159_mic1.wav">
 		</audio>
@@ -279,6 +279,7 @@ VCTK Corpus contains approximately 44 hours of speech recordings from 109 speake
 	    </td>
     	<td><audio id="audio" controls="" preload="none">
       		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/p270_062_mic1_to_p258_308_mic1/starganv2-vc-noasr_p270_062_mic1_to_p258_308_mic1.wav">
+		</audio>
 	    </td>
     </tr>
     <tr>
@@ -329,7 +330,7 @@ The corpus contains roughly 85 hours of recordings produced by 218 native Chines
     	<td> Sample 2 (482 → 11) </td>
     </tr>
     <tr>
-    	<td><font size="1"> Source</td>
+    	<td>Source</td>
     	<td><audio id="audio" controls="" preload="none">
       		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/SSB00110136_to_SSB10000215/source-SSB00110136.wav">
 		</audio>
@@ -358,6 +359,7 @@ The corpus contains roughly 85 hours of recordings produced by 218 native Chines
 	    </td>
     	<td><audio id="audio" controls="" preload="none">
       		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/SSB04820030_to_SSB00110206/starganv2-vc_noasr-SSB04820030_to_SSB00110206.wav">
+		</audio>
 	    </td>
     </tr>
     <tr>
@@ -405,7 +407,7 @@ The corpus contains roughly 85 hours of recordings produced by 218 native Chines
     	<td> Sample 2 (1274 → 710) </td>
     </tr>
     <tr>
-    	<td><font size="1"> Source</td>
+    	<td>Source</td>
     	<td><audio id="audio" controls="" preload="none">
       		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/SSB10000120_to_SSB13650054/source-SSB10000120.wav">
 		</audio>
@@ -434,6 +436,7 @@ The corpus contains roughly 85 hours of recordings produced by 218 native Chines
 	    </td>
     	<td><audio id="audio" controls="" preload="none">
       		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/SSB12740372_to_SSB07100189/starganv2-vc_noasr-SSB12740372_to_SSB07100189.wav">
+		</audio>
 	    </td>
     </tr>
     <tr>
@@ -481,7 +484,7 @@ The corpus contains roughly 85 hours of recordings produced by 218 native Chines
     	<td> Sample 2 (407 → 1000) </td>
     </tr>
     <tr>
-    	<td><font size="1"> Source</td>
+    	<td>Source</td>
     	<td><audio id="audio" controls="" preload="none">
       		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/SSB03940020_to_SSB12740393/source-SSB03940020.wav">
 		</audio>
@@ -510,6 +513,7 @@ The corpus contains roughly 85 hours of recordings produced by 218 native Chines
 	    </td>
     	<td><audio id="audio" controls="" preload="none">
       		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/SSB04070119_to_SSB10000238/starganv2-vc_noasr-SSB04070119_to_SSB10000238.wav">
+		</audio>
 	    </td>
     </tr>
     <tr>
@@ -556,7 +560,7 @@ The corpus contains roughly 85 hours of recordings produced by 218 native Chines
     	<td> Sample 2 (1935 → 1365) </td>
     </tr>
     <tr>
-    	<td><font size="1"> Source</td>
+    	<td>Source</td>
     	<td><audio id="audio" controls="" preload="none">
       		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/SSB03940025_to_SSB04070225/source-SSB03940025.wav">
 		</audio>
@@ -585,6 +589,7 @@ The corpus contains roughly 85 hours of recordings produced by 218 native Chines
 	    </td>
     	<td><audio id="audio" controls="" preload="none">
       		<source id="wav" src="https://github.com/anonymousSGANVC/SGAN-VC/raw/gh-pages/samples/SSB19350298_to_SSB13650368/starganv2-vc_noasr-SSB19350298_to_SSB13650368.wav">
+		</audio>
 	    </td>
     </tr>
     <tr>
